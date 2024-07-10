@@ -346,7 +346,7 @@ export const projects = [
     description:
       "Developed a feature-rich food delivery application using the MERN stack (MongoDB, Express.js, React.js, Node.js). The app allows users to browse and order food from various restaurants, track their orders in real-time, and make secure payments. Features include user authentication, restaurant management, order history, and rating/review system. Integrated Redux for state management and NodeMailer for order confirmation emails. Future plans include adding a recommendation engine, advanced filtering options, and a loyalty rewards program.",
     image:
-      "https://private-user-images.githubusercontent.com/88710389/325233389-c1e47bed-1ce0-4975-ab82-2771fa5f997b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA1MjQwMDEsIm5iZiI6MTcyMDUyMzcwMSwicGF0aCI6Ii84ODcxMDM4OS8zMjUyMzMzODktYzFlNDdiZWQtMWNlMC00OTc1LWFiODItMjc3MWZhNWY5OTdiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA5VDExMTUwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3MTk4ZjU4MTIyZWJkZmJiMjA2NTBmZDVlYWFjNjAxNDAyMzZhNjJkNGYzMWM3NWE3OGZiZDRkZDI5YjQ0MjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.L3HGS_wdZafWgCyakPwCnMqVcZrpkigngwuP4nGWhM8",
+      "https://github.com/sohan03/Tomato-Food-Delivery-App/blob/main/Food_Delievery_Tomato-main/backend/uploads/start.png",
     tags: [
       "React Js",
       "MongoDb",
