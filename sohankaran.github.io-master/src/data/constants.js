@@ -411,7 +411,7 @@ export const projects = [
     description:
       "The main objective of this project is to segment customers into distinct groups based on their purchasing behavior and other relevant attributes. By identifying these segments, businesses can tailor their marketing strategies, improve customer satisfaction, and increase overall profitability.",
     image:
-    " ",
+    "https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1685022331/catalog/1661722892270686208/s5fnt55xnirfeyitsbor.jpg ",
     tags: [
       "Python",
       "Jupyter Notebook",
