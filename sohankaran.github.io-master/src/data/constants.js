@@ -323,7 +323,7 @@ export const projects = [
     description:
       "Developed a full-featured Blog App using the MERN stack (MongoDB, Express.js, React.js, Node.js). Users can create, edit, and delete blog posts with authentication and authorization support. Key features include rich text editing, image upload, comments, search, Redux for state management, and NodeMailer for email notifications. Future enhancements include social media sharing, tagging, and an admin panel for content moderation",
     image:
-      "https://github.com/sohan03/BlogApp/blob/projects/next-blog-app/Assets/blog%20app.png ",
+      "https://play-lh.googleusercontent.com/cWG9-bk2_zLdKsN9vsYEdbCReVfzgXU6FeHUmLI8a24FoZ05TpOLYXInCQ278FTwCw",
     tags: [
       "React Js",
       "PostgressSQL",
@@ -346,7 +346,7 @@ export const projects = [
     description:
       "Developed a feature-rich food delivery application using the MERN stack (MongoDB, Express.js, React.js, Node.js). The app allows users to browse and order food from various restaurants, track their orders in real-time, and make secure payments. Features include user authentication, restaurant management, order history, and rating/review system. Integrated Redux for state management and NodeMailer for order confirmation emails. Future plans include adding a recommendation engine, advanced filtering options, and a loyalty rewards program.",
     image:
-      "https://github.com/sohan03/Tomato-Food-Delivery-App/blob/main/Food_Delievery_Tomato-main/backend/uploads/start.png",
+      "https://play-lh.googleusercontent.com/WwFt9RK2uBijSOzD5OH9kcfk6-T4u9B4JoimmsYayNkjcojgLVa6KAU3uQ6Pnz0K1Q",
     tags: [
       "React Js",
       "MongoDb",
@@ -368,8 +368,7 @@ export const projects = [
     description:
       "Developed a comprehensive E-commerce Website using the MERN stack (MongoDB, Express.js, React.js, Node.js). Features include user authentication, product management, shopping cart, order processing, and payment integration. The app uses Redux for state management and NodeMailer for order confirmation emails. Future enhancements include advanced filtering, user reviews, and a recommendation system.",
     image:
-      "https://private-user-images.githubusercontent.com/94063015/338205261-575a3e17-0eaa-4c91-a823-fcd15b80cfff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA1MjM3NTgsIm5iZiI6MTcyMDUyMzQ1OCwicGF0aCI6Ii85NDA2MzAxNS8zMzgyMDUyNjEtNTc1YTNlMTctMGVhYS00YzkxLWE4MjMtZmNkMTViODBjZmZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA5VDExMTA1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyYjJhMDJmYzNmMjg5ZjNlZjQxNDVlYTBhMTIxOWNhZTIyNzBiNGYyNzY1NTg1Mzg2YTlhOTI0ZDQwMmFlNTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.MyC46eUt_ryA9YVxG30jsIvTEHhlpfF--ICxvzKEUGA",
-    tags: ["HTML","CSS","React Js", "MongoDb", "Node Js", "Express Js"],
+      "https://thumbs.dreamstime.com/z/virtual-shopper-entering-shopping-mall-building-female-buyer-visiting-online-shop-website-faceless-lady-mobile-phone-281910082.jpg",
     category: "web app",
     github: "https://github.com/sohan03/E-Commerce-Website",
     webapp: "https://ecommerce-frontend-0odb.onrender.com/",
