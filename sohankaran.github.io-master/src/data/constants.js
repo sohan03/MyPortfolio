@@ -369,6 +369,17 @@ export const projects = [
       "Developed a comprehensive E-commerce Website using the MERN stack (MongoDB, Express.js, React.js, Node.js). Features include user authentication, product management, shopping cart, order processing, and payment integration. The app uses Redux for state management and NodeMailer for order confirmation emails. Future enhancements include advanced filtering, user reviews, and a recommendation system.",
     image:
       "https://thumbs.dreamstime.com/z/virtual-shopper-entering-shopping-mall-building-female-buyer-visiting-online-shop-website-faceless-lady-mobile-phone-281910082.jpg",
+    tags: [
+      "React Js",
+      "PostgressSQL",
+      "MongoDB",
+      "Node Js",
+      "Express Js",
+      "Redux",
+      "HTML",
+      "CSS",
+      "React Flow",
+    ],
     category: "web app",
     github: "https://github.com/sohan03/E-Commerce-Website",
     webapp: "https://ecommerce-frontend-0odb.onrender.com/",
