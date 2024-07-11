@@ -402,7 +402,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/sohan03/MyPortfolio.git",
-    webapp: "https://github.com/sohan03/MyPortfolio.git",
+    webapp: "https://myportfolio-iota-dun.vercel.app/",
   },
   {
     id: 4,
