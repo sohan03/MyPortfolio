@@ -380,7 +380,7 @@ export const projects = [
     description:
       "Built a responsive portfolio website using Next.js, a React framework. This portfolio showcases my projects, skills, and experience in web development. Implemented server-side rendering for fast page loads and SEO benefits. Integrated Tailwind CSS for styling and used TypeScript for type safety. Features include project listing with details, contact form with email functionality, and a blog section. Utilized Git for version control and deployed the app on Vercel. Future plans include adding more interactive elements and improving accessibility",
     image:
-      " ",
+      "https://mir-s3-cdn-cf.behance.net/projects/404/3d490e160347179.Y3JvcCwzMTcwLDI0ODAsMTY0LDA.jpg",
     tags: [
       "Next.js",
       "React.js",
