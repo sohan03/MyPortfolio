@@ -372,7 +372,7 @@ export const projects = [
     tags: ["HTML","CSS","React Js", "MongoDb", "Node Js", "Express Js"],
     category: "web app",
     github: "https://github.com/sohan03/E-Commerce-Website",
-    webapp: "https://github.com/sohan03/E-Commerce-Website",
+    webapp: "https://ecommerce-frontend-0odb.onrender.com/",
   },
   {
     id: 1,
