@@ -4,11 +4,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 ### Weblink: [Live Website]
 ## Some Images:
 <img width="450px;" src="https://github.com/sohan03/MyPortfolio/blob/main/sohankaran.github.io-master/src/images/start.png"/>
-<img width="450px;" src="https://github.com/sohan03/MyPortfolio.git"/>
-<img width="450px;" src="https://github.com/sohan03/MyPortfolio.git"/>
-<img width="450px;" src="https://github.com/sohan03/MyPortfolio.git"/>
-<img width="450px;" src="https://github.com/sohan03/MyPortfolio.git"/>
-<img width="450px;" src="https://github.com/sohan03/MyPortfolio.git"/>
+
 
 
 ## Table of Contents
